@@ -1,0 +1,2 @@
+# Tennis-Club-Membership
+A Java application that has three types of actors: Senior Consultant, Junior Consultant, and a Member. The application allows users to subscribe to be members of a tennis club, a senior consultant then approves the membership. A member can manage their account details, and make weekly plans. Senior consultants are allowed to manage their own accounts, accounts of members, and accounts of Junior Consultants, they're also allowed to view and a access membership reports. Junior Consultants can manage accounts of members and their own accounts.
